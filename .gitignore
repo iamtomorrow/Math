@@ -1,3 +1,5 @@
 /.venv
 /env
 /__pycache__
+/media/videos/**/partial_movie_files
+/media/images

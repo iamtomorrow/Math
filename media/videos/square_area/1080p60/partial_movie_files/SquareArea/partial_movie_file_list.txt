@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/tomor/Code/Math/media/videos/square_area/1080p60/partial_movie_files/SquareArea/3529212410_1071590280_223132457.mp4'
-file 'file:C:/Users/tomor/Code/Math/media/videos/square_area/1080p60/partial_movie_files/SquareArea/3040924799_204671392_480282438.mp4'
-file 'file:C:/Users/tomor/Code/Math/media/videos/square_area/1080p60/partial_movie_files/SquareArea/3040924799_2413919084_3748148419.mp4'
-file 'file:C:/Users/tomor/Code/Math/media/videos/square_area/1080p60/partial_movie_files/SquareArea/3040924799_13014941_1905146665.mp4'
-file 'file:C:/Users/tomor/Code/Math/media/videos/square_area/1080p60/partial_movie_files/SquareArea/3040924799_1677982044_365893576.mp4'
-file 'file:C:/Users/tomor/Code/Math/media/videos/square_area/1080p60/partial_movie_files/SquareArea/3040924799_1465840242_2227098246.mp4'
-file 'file:C:/Users/tomor/Code/Math/media/videos/square_area/1080p60/partial_movie_files/SquareArea/3040924799_2475379470_2279591985.mp4'
-file 'file:C:/Users/tomor/Code/Math/media/videos/square_area/1080p60/partial_movie_files/SquareArea/3040924799_1941834203_3597833796.mp4'

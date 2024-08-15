@@ -25,8 +25,10 @@ class SquareArea(Scene):
         self.play(Write(side_value))
         self.play(Transform(area_formula, area_calculation))
 
+        self.wait(3)
+
         # HIGHLIGHT THE AREA OF THE SQUARE
-        square_area = Square(side_length=3, fill_color=ORANGE, fill_opacity=0.75)
+        square_area = Square(side_length=3, fill_color=ORANGE, fill_opacity=1)
         square_area.shift(UP*1.5)
         self.play(FadeIn(square_area))
 
